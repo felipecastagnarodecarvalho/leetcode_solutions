@@ -25,3 +25,6 @@ public class Solution {
         return count;
     }
 }
+
+// aray = [ 5, 5, -1, 1, 0, 5]
+// goal = 10
